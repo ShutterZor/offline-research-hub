@@ -2,6 +2,8 @@
 
 A **single-file, offline-first personal research management dashboard** for tracking working papers, submissions, and publications. No build tools, no server, no dependencies — just open the HTML file in a browser.
 
+[中文版README](./README_ZH.md)
+
 ![Type](https://img.shields.io/badge/type-single--file%20HTML-blue) ![Deps](https://img.shields.io/badge/dependencies-none-brightgreen) ![Storage](https://img.shields.io/badge/storage-localStorage-orange)
 
 ---
